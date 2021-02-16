@@ -33,7 +33,7 @@ The configuration details of each machine may be found below.
 
 | Name                 | Function                         | IP Address/Private IP   | Operating System              |
 |----------------------|----------------------------------|-------------------------|-------------------------------|
-| Home Computer        | Base Machine                     | 184.59.148.140          | Windows 10 Home, Version 1903 |
+| Home Computer        | Base Machine                     | 192.168.1.0             | Windows 10 Home, Version 1903 |
 | Jump-Box-Provisioner | Core VM and VM Modulator         | 13.88.8.203/10.0.0.4    | Ubuntu 18.04 LTS              |
 | DVWA-VM1             | Hosts DVWA, generates log data   | 137.135.24.117/10.0.0.7 | Ubuntu 18.04 LTS              |
 | DVWA-VW2             | Hosts DVWA, generates log data   | 168.62.10.162/10.0.0.8  | Ubuntu 18.04 LTS              |
