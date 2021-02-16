@@ -101,3 +101,4 @@ remote_user = sysadmin
 - Copy filebeat-playbook.yml to the directory: /etc/ansible/roles/
 - Update the hosts file in ansible to configure which machines are provisioned with ELK or filebeat. Filebeat is installed under [webservers], ELK is installed under [elkservers].
 - Navigate to < 13.77.145.77:5601 > to access ELK server kibana site.
+# ELK
